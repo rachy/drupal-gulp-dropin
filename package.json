@@ -1,0 +1,32 @@
+{
+  "name": "drupal-gulp-dropin",
+  "version": "1.0.0",
+  "description": "Gulp theme dropin using npm, gulp, and browser-sync",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rachy/drupal-gulp-dropin.git"
+  },
+  "author": "Rachel Manning",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rachy/drupal-gulp-dropin/issues"
+  },
+  "homepage": "https://github.com/rachy/drupal-gulp-dropin#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.2.1"
+  },
+  "keywords": [
+    "drupal",
+    "theme",
+    "gulp"
+  ],
+  "dependencies": {
+    "browsersync": "0.0.1-security"
+  }
+}
